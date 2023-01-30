@@ -1,7 +1,7 @@
 {
-  "serverID": "server id here",
-  "ownerID": "owner id here",
-  "message": "message after boosting",
-  "addBoostReaction": "y/n (will add a reaction to the boost message",
-  "Boostreaction": "can be empty if addBoostReaction is egal to n else, insert a discord (custom emoji)"
+  "serverID": "1052858688269996052",
+  "ownerID": "1054699569767776256",
+  "message": "robbin is a goat",
+  "addBoostReaction": "loardmama boosted the sever",
+  "Boostreaction": "sui robbin is legit"
   }
